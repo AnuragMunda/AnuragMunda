@@ -1,6 +1,6 @@
 ## Hello there!<img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40px">
 
-I'm **Anurag Munda**. A self-taught **Blockchain/Web** Developer and **Web3/Crypto** enthusiast from **India**. During lockdown, I decided to learn about Blockhain as well as Web development and it kind of changed my life. My passion for technology is what drives and motivates me to keep learning and developing my skills. I just want to be able to contribute to a better future.
+I'm **Anurag Munda**. A self-taught **Blockchain/Web** Developer and **Web3/Crypto** enthusiast. During lockdown, I decided to learn about Blockhain as well as Web development and it kind of changed my life. My passion for technology is what drives and motivates me to keep learning and developing my skills. I just want to be able to contribute to a better future.
 
 I love building and developing stuffs and hope that you too! That's why I'm open to collaborate on *Open Source Projects*.
 
@@ -9,9 +9,25 @@ I love building and developing stuffs and hope that you too! That's why I'm open
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmunda) &nbsp;&nbsp;
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anurag.munda005@gmail.com)
 
-### Technology Stack
+### Technology Stack 👨‍💻
+<span />
+<img align="right" src="https://cdn.dribbble.com/users/452800/screenshots/2423898/media/33fb1b0d2b966f716e99011148941cdd.gif" width="600px">
+<img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"><br>
+<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+<img src = "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"><br>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
+<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMunda&theme=gotham)
+<br><br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMunda&layout=compact&theme=gotham"></p>
 
 <!---
 AnuragMunda/AnuragMunda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
