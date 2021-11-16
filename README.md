@@ -1,4 +1,4 @@
-## Hello there!<img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40px">
+# Hello there!<img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40px">
 
 I'm **Anurag Munda**. A self-taught **Blockchain/Web** Developer and **Web3/Crypto** enthusiast. During lockdown, I decided to learn about Blockhain as well as Web development and it kind of changed my life. My passion for technology is what drives and motivates me to keep learning and developing my skills. I just want to be able to contribute to a better future.
 
