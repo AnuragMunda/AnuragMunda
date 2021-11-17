@@ -9,9 +9,9 @@ I love building and developing stuffs and hope that you too! That's why I'm open
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmunda) &nbsp;&nbsp;
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anurag.munda005@gmail.com)
 
-### Technology Stack 👨‍💻
-<span />
 <img align="right" src="https://cdn.dribbble.com/users/452800/screenshots/2423898/media/33fb1b0d2b966f716e99011148941cdd.gif" width="600px">
+
+### Technology Stack 👨‍💻
 <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"><br>
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
