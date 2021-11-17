@@ -24,7 +24,7 @@ I love building and developing stuffs and hope that you too! That's why I'm open
 <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><br>
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
 <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<!-- <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
 
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMunda&layout=compact&theme=gotham"></p>
