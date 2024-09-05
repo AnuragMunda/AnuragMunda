@@ -1,8 +1,14 @@
 # Hello there!<img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40px">  &nbsp;![visitors](https://komarev.com/ghpvc/?username=AnuragMunda&label=Visitors)
 
-I'm **Anurag Munda**. A self-taught **Blockchain/Web** Developer and **Web3/Crypto** enthusiast. During lockdown, I decided to learn about Blockhain as well as Web development and it kind of changed my life. My passion for technology is what drives and motivates me to keep learning and developing my skills. I just want to be able to contribute to a better future.
+I'm **Anurag Munda**. Passionate Full-Stack Blockchain Developer with a strong background in both front-end and back-end development. Leveraging my expertise in blockchain technologies, I specialize in building decentralized applications (dApps) and smart contracts to drive innovation in various industries.
 
-I love building and developing stuffs and hope that you too! That's why I'm open to collaborate on *Open Source Projects*.
+My journey in software development began with a fascination for blockchain's potential to revolutionize traditional systems. Over the years, I've honed my skills in Ethereum, Hyperledger, and other blockchain platforms, adept at implementing consensus algorithms, tokenization, and decentralized storage solutions.
+
+On the front-end, I excel in crafting intuitive user interfaces using modern frameworks like React.js and Next.js, ensuring seamless user experiences for blockchain applications. Meanwhile, on the back-end, I thrive in architecting scalable and secure systems, integrating blockchain solutions with traditional databases and APIs.
+
+My collaborative approach to problem-solving, combined with a keen eye for detail, enables me to deliver robust solutions that meet both technical requirements and business objectives. Whether it's optimizing smart contract performance or implementing complex blockchain networks, I am committed to driving technological advancement and fostering innovation in the blockchain space.
+
+Let's connect to explore opportunities to leverage blockchain technology for transformative solutions.
 
 ### Connect with me 🔗
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anurag_MND) &nbsp;&nbsp;
