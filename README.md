@@ -1,8 +1,8 @@
 # Hello there!<img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40px">  &nbsp;![visitors](https://komarev.com/ghpvc/?username=AnuragMunda&label=Visitors)
 
-I'm **Anurag Munda**. Passionate Full-Stack Blockchain Developer with a strong background in both front-end and back-end development. Leveraging my expertise in blockchain technologies, I specialize in building decentralized applications (dApps) and smart contracts to drive innovation in various industries.
+I'm **Anurag Munda**. Professional Smart Contract Engineer/Blockchain Developer with a strong background in both front-end and back-end development as well. Leveraging my expertise in blockchain technologies, I specialize in building decentralized applications (dApps) and smart contracts to drive innovation in various industries.
 
-My journey in software development began with a fascination for blockchain's potential to revolutionize traditional systems. Over the years, I've honed my skills in Ethereum, Hyperledger, and other blockchain platforms, adept at implementing consensus algorithms, tokenization, and decentralized storage solutions.
+My journey in software development began with a fascination for blockchain's potential to revolutionize traditional systems. Over the years, I've honed my skills in Ethereum, adept at implementing consensus algorithms, tokenization, and decentralized storage solutions.
 
 On the front-end, I excel in crafting intuitive user interfaces using modern frameworks like React.js and Next.js, ensuring seamless user experiences for blockchain applications. Meanwhile, on the back-end, I thrive in architecting scalable and secure systems, integrating blockchain solutions with traditional databases and APIs.
 
