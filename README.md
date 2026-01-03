@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### I like building applications - full-stack/blockchain/system-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
+### I like building applications - full-stack/blockchain/system-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
 
 - 💻: &nbsp;Currently focusing on **web3 and blockchain**
 - 💬: &nbsp;I like to talk about **technology** and **business**
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-### Technology Stack <img src="https://media.tenor.com/9f3m32Zi_t0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="50px" height="50px">
+### Technology Stack <img src="https://media.tenor.com/9f3m32Zi_t0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
 <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -57,7 +57,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
 
-### Connect with me <img src="https://media.tenor.com/4f2ucFig1g0AAAAj/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
+### Connect with me <img src="https://media.tenor.com/4f2ucFig1g0AAAAj/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xShenigun) &nbsp;&nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmunda) &nbsp;&nbsp;
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anurag.munda005@gmail.com)
