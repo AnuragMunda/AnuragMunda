@@ -1,41 +1,70 @@
-# Hello there!<img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="40px">  &nbsp;![visitors](https://komarev.com/ghpvc/?username=AnuragMunda&label=Visitors)
+# Hi, I'm Anurag Munda <img src="https://media.tenor.com/BVy-SnYOsf0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="80px" height="80px">
+<!--![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Anurag+Munda) -->
+<p align="left">
+  <a href="https://github.com/AnuragMunda/AnuragMunda">
+    <img src="https://komarev.com/ghpvc/?username=AnuragMunda" alt="page views" />
+  </a>
+  <a href="https://anuragmunda.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/website?url=https%3A%2F%2Fanuragmunda.vercel.app">
+  </a>
+  <a href="https://x.com/0xShenigun">
+    <img alt="X" src="https://img.shields.io/twitter/follow/0xShenigun?style=flat&logo=x">
+  </a>
+</p>
 
-I'm **Anurag Munda**. Professional Smart Contract Engineer/Blockchain Developer with a strong background in both front-end and back-end development as well. Leveraging my expertise in blockchain technologies, I specialize in building decentralized applications (dApps) and smart contracts to drive innovation in various industries.
+### I like building applications - full-stack/blockchain/system-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
-My journey in software development began with a fascination for blockchain's potential to revolutionize traditional systems. Over the years, I've honed my skills in Ethereum, adept at implementing consensus algorithms, tokenization, and decentralized storage solutions.
+- 💻: &nbsp;Currently focusing on **web3 and blockchain**
+- 💬: &nbsp;I like to talk about **technology** and **business**
+- 📖: &nbsp;Read my blogs on <a href="https://medium.com/@0xSheniGun">Medium</a>
 
-On the front-end, I excel in crafting intuitive user interfaces using modern frameworks like React.js and Next.js, ensuring seamless user experiences for blockchain applications. Meanwhile, on the back-end, I thrive in architecting scalable and secure systems, integrating blockchain solutions with traditional databases and APIs.
+### My Proof-of-Work <img src="https://media.tenor.com/wdxC8wJCAqUAAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
-My collaborative approach to problem-solving, combined with a keen eye for detail, enables me to deliver robust solutions that meet both technical requirements and business objectives. Whether it's optimizing smart contract performance or implementing complex blockchain networks, I am committed to driving technological advancement and fostering innovation in the blockchain space.
+<p align="left">
+  <a href="https://github.com/AnuragMunda/soltip-dapp">
+    <img src="https://img.shields.io/badge/-%20Soltip%20Dapp-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnuragMunda/explain-it-to-me">
+    <img src="https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnuragMunda/blockmeter-frontend">
+    <img src="https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnuragMunda/blockchain-price-tracker">
+    <img src="https://img.shields.io/badge/-%20Blockchain%20Price%20Tracker-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/orgs/SolanaContracts/repositories">
+    <img src="https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Let's connect to explore opportunities to leverage blockchain technology for transformative solutions.
+### Technology Stack <img src="https://media.tenor.com/9f3m32Zi_t0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="50px" height="50px">
 
-### Connect with me 🔗
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anurag_MND) &nbsp;&nbsp;
+<img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src = "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-%2365C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
+
+### Connect with me <img src="https://media.tenor.com/4f2ucFig1g0AAAAj/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xShenigun) &nbsp;&nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmunda) &nbsp;&nbsp;
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anurag.munda005@gmail.com)
 
-<img align="right" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="600px">
-
-### Technology Stack 👨‍💻
-<img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"><br>
-<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
-<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"><br>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
-<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
-<!-- <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
-
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMunda&layout=compact&theme=gotham"></p>
+
+![Anurag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuragMunda&theme=react-dark)
 
 <!---
 AnuragMunda/AnuragMunda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
