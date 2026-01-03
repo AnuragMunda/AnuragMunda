@@ -1,16 +1,9 @@
 # Hi, I'm Anurag Munda <img src="https://media.tenor.com/BVy-SnYOsf0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="80px" height="80px">
-<!--![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Anurag+Munda) -->
-<p align="left">
-  <a href="https://github.com/AnuragMunda/AnuragMunda">
-    <img src="https://komarev.com/ghpvc/?username=AnuragMunda" alt="page views" />
-  </a>
-  <a href="https://anuragmunda.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/website?url=https%3A%2F%2Fanuragmunda.vercel.app">
-  </a>
-  <a href="https://x.com/0xShenigun">
-    <img alt="X" src="https://img.shields.io/twitter/follow/0xShenigun?style=flat&logo=x">
-  </a>
-</p>
+
+[![Page Views](https://komarev.com/ghpvc/?username=AnuragMunda)](https://github.com/AnuragMunda/AnuragMunda)&nbsp;
+[![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fanuragmunda.vercel.app)](https://anuragmunda.vercel.app)&nbsp;
+[![X.com](https://img.shields.io/twitter/follow/0xShenigun?style=flat&logo=x)](https://x.com/0xShenigun)
+
 
 ### I like building applications - full-stack/blockchain/system-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
 
@@ -18,25 +11,15 @@
 - 💬: &nbsp;I like to talk about **technology** and **business**
 - 📖: &nbsp;Read my blogs on <a href="https://medium.com/@0xSheniGun">Medium</a>
 
+
 ### My Proof-of-Work <img src="https://media.tenor.com/wdxC8wJCAqUAAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
-<p align="left">
-  <a href="https://github.com/AnuragMunda/soltip-dapp">
-    <img src="https://img.shields.io/badge/-%20Soltip%20Dapp-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnuragMunda/explain-it-to-me">
-    <img src="https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnuragMunda/blockmeter-frontend">
-    <img src="https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnuragMunda/blockchain-price-tracker">
-    <img src="https://img.shields.io/badge/-%20Blockchain%20Price%20Tracker-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/orgs/SolanaContracts/repositories">
-    <img src="https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Soltip Dapp](https://img.shields.io/badge/-%20Soltip%20Dapp-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/soltip-dapp)&nbsp;
+[![Soltip Dapp](https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/explain-it-to-me)&nbsp;
+[![Soltip Dapp](https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockmeter-frontend)&nbsp;
+[![Soltip Dapp](https://img.shields.io/badge/-%20Blockchain%20Price%20Tracker-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockchain-price-tracker)&nbsp;
+[![Soltip Dapp](https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/MyContracts/repositories)&nbsp;
+
 
 ### Technology Stack <img src="https://media.tenor.com/9f3m32Zi_t0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
@@ -58,8 +41,8 @@
 <!-- <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
 
 ### Connect with me <img src="https://media.tenor.com/4f2ucFig1g0AAAAj/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xShenigun) &nbsp;&nbsp;
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmunda) &nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xShenigun) &nbsp;
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmunda) &nbsp;
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anurag.munda005@gmail.com)
 
 <br>
