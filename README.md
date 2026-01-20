@@ -18,7 +18,7 @@
 [![Soltip Dapp](https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/explain-it-to-me)&nbsp;
 [![Soltip Dapp](https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockmeter-frontend)&nbsp;
 [![Soltip Dapp](https://img.shields.io/badge/-%20Blockchain%20Price%20Tracker-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockchain-price-tracker)&nbsp;
-[![Soltip Dapp](https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/MyContracts/repositories)&nbsp;
+[![Soltip Dapp](https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/MySmartContracts/repositories)&nbsp;
 
 
 ### Technology Stack <img src="https://media.tenor.com/9f3m32Zi_t0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
