@@ -15,10 +15,11 @@
 ### My Proof-of-Work <img src="https://media.tenor.com/wdxC8wJCAqUAAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
 [![Soltip Dapp](https://img.shields.io/badge/-%20Soltip%20Dapp-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/soltip-dapp)&nbsp;
-[![Soltip Dapp](https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/explain-it-to-me)&nbsp;
-[![Soltip Dapp](https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockmeter-frontend)&nbsp;
-[![Soltip Dapp](https://img.shields.io/badge/-%20Blockchain%20Price%20Tracker-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockchain-price-tracker)&nbsp;
-[![Soltip Dapp](https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/MySmartContracts/repositories)&nbsp;
+[![Explain It To Me](https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/explain-it-to-me)&nbsp;
+[![BlockMeter](https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockmeter-frontend)&nbsp;
+[![Blockchain Price Tracker](https://img.shields.io/badge/-%20Blockchain%20Price%20Tracker-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockchain-price-tracker)&nbsp;
+[![Smart Contracts](https://img.shields.io/badge/-%20Solana%20and%20Ethereum%20Smart%20Contracts-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/MySmartContracts/repositories)&nbsp;
+[![Soltip Dapp](https://img.shields.io/badge/-%20Solana%20Turbin3%20Q126-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/solana-turbin3-Q1-26/repositories)&nbsp;
 
 
 ### Technology Stack <img src="https://media.tenor.com/9f3m32Zi_t0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
