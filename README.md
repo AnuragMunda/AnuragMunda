@@ -1,7 +1,7 @@
 # Hi, I'm Anurag Munda <img src="https://media.tenor.com/BVy-SnYOsf0AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="80px" height="80px">
 
 [![Page Views](https://komarev.com/ghpvc/?username=AnuragMunda)](https://github.com/AnuragMunda/AnuragMunda)&nbsp;
-[![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fanuragmunda.vercel.app)](https://anuragdev-mocha.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fanuragdev-mocha.vercel.app)](https://anuragdev-mocha.vercel.app)&nbsp;
 [![X.com](https://img.shields.io/twitter/follow/0xShenigun?style=flat&logo=x)](https://x.com/0xShenigun)
 
 
