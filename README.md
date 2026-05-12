@@ -7,13 +7,14 @@
 
 ### I like building applications - full-stack/blockchain/system-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
 
-- 💻: &nbsp;Currently focusing on **web3 and blockchain**
+- 💻: &nbsp;Currently focusing on **AI engineering and blockchain development**
 - 💬: &nbsp;I like to talk about **technology** and **business**
 - 📖: &nbsp;Read my blogs on <a href="https://medium.com/@0xSheniGun">Medium</a>
 
 
 ### My Proof-of-Work <img src="https://media.tenor.com/wdxC8wJCAqUAAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="60px" height="60px">
 
+[![402 Forbidden](https://img.shields.io/badge/-%20402%20Forbidden-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/402Forbidden)&nbsp;
 [![Soltip Dapp](https://img.shields.io/badge/-%20Soltip%20Dapp-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/soltip-dapp)&nbsp;
 [![Explain It To Me](https://img.shields.io/badge/-%20Explain%20It%20To%20Me-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/explain-it-to-me)&nbsp;
 [![BlockMeter](https://img.shields.io/badge/-%20BlockMeter-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/AnuragMunda/blockmeter-frontend)&nbsp;
