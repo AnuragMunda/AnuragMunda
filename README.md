@@ -5,7 +5,7 @@
 [![X.com](https://img.shields.io/twitter/follow/0xShenigun?style=flat&logo=x)](https://x.com/0xShenigun)
 
 
-### I like building applications - full-stack/blockchain/system-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
+### I like building applications - full-stack/blockchain/web-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
 
 - 💻: &nbsp;Currently focusing on **AI engineering and blockchain development**
 - 💬: &nbsp;I like to talk about **technology** and **business**
