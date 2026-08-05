@@ -2,7 +2,7 @@
 
 [![Page Views](https://komarev.com/ghpvc/?username=AnuragMunda)](https://github.com/AnuragMunda)&nbsp;
 [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fanuragmunda.vercel.app)](https://anuragmunda.vercel.app)&nbsp;
-[![X.com](https://img.shields.io/twitter/follow/0xShenigun?style=flat&logo=x)](https://x.com/0xShenigun)
+[![X.com](https://img.shields.io/twitter/follow/anu_mun?style=flat&logo=x)](https://x.com/anu_mun)
 
 
 ### I like building applications - full-stack/blockchain/web-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
