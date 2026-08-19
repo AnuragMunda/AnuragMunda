@@ -5,9 +5,9 @@
 [![X.com](https://img.shields.io/twitter/follow/anu_mun?style=flat&logo=x)](https://x.com/anu_mun)
 
 
-### I like building applications - full-stack/blockchain/web-apps <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
+### I like building applications - full-stack/blockchain/ai <img src="https://media.tenor.com/PPckCij2Vt8AAAAi/guardians-of-the-galaxy-marvel-studios.gif" width="70px" height="70px">
 
-- 💻: &nbsp;Currently focusing on **AI engineering and blockchain development**
+- 💻: &nbsp;Currently focusing on **AI and Product Engineering**
 - 💬: &nbsp;I like to talk about **technology** and **business**
 - 📖: &nbsp;Read my blogs on <a href="https://medium.com/@0xSheniGun">Medium</a>
 
